@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brahma-keerthi
 - 🌱 I’m currently learning Data Structures 
-- 📫 Can reach me through brahmakeerthihs248@gmail.com 
+- 📫 @brahmakeerthihs248@gmail.com 
 
 <!---
 brahma-keerthi/brahma-keerthi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
