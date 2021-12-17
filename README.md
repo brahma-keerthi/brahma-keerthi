@@ -12,12 +12,9 @@ def brahma():
               "Java" : "Beginner",
               "C" : "Intermediate",
               "Web Dev" : "Beginner",
-              "Cpp" : "Beginner"  }
-              
+              "Cpp" : "Beginner"  }       
   tools = { "git", "github" }
-  
-  isenthusiast = True
-  
+  isEnthusiast = True
   return infinity
   
   
