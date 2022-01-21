@@ -7,7 +7,7 @@ brahma-keerthi/brahma-keerthi is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 ~~~
-def BrahmaKeerthi():
+def Brahma_Keerthi():
   skills = {  "Python" : "Beginner", 
               "Java" : "Beginner",
               "C" : "Intermediate",
@@ -20,4 +20,3 @@ def BrahmaKeerthi():
 	
   return infinity
 ~~~
-  
