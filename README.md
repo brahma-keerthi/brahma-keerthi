@@ -6,10 +6,11 @@ You can click the Preview link to take a look at your changes.
 def Brahma_Keerthi():
   skills = {  "Python" : "Beginner", 
               "Java" : "Beginner",
+	      "Android Dev" : "Beginner",
               "C" : "Intermediate",
               "Cpp" : "Beginner"  }      
 							
-  tools = { "git", "github" }
+  tools = { "git", "github", "Android Studio" }
 	
   isEnthusiast = True
 	
