@@ -4,11 +4,10 @@ You can click the Preview link to take a look at your changes.
 --->
 ~~~
 def Brahma_Keerthi():
-  skills = {  "Python" : "Beginner", 
-              "Java" : "Beginner",
+  skills = {  "Python" : "Intermediate", 
+              "Java" : "Intermediate",
 	      "Android Dev" : "Beginner",
-              "C" : "Intermediate",
-              "Cpp" : "Beginner"  }      
+              "C" : "Intermediate"  }      
 							
   tools = { "git", "github", "Android Studio" }
 	
