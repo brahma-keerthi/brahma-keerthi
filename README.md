@@ -23,7 +23,7 @@ def Brahma_Keerthi():
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brahma-keerthi" alt="brahma-keerthi" /></a> </p>
 
-- 🌱 I’m currently learning **DSA and Android Development**
+- 🌱 I’m currently learning **DSA** and **Android Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/brahma-keerthi?tab=repositories](https://github.com/brahma-keerthi?tab=repositories)
 
