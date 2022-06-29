@@ -4,16 +4,19 @@ You can click the Preview link to take a look at your changes.
 --->
 ~~~
 def Brahma_Keerthi():
-  skills = {  "Python" : "Intermediate", 
-              "Java" : "Intermediate",
-	      "Android Dev" : "Beginner",
-              "C" : "Intermediate"  }      
+  	skills = {  "Python" : "Intermediate", 
+       	            "Java" : "Intermediate",
+	            "Android Dev" : "Beginner",
+                    "C" : "Intermediate",
+		    "C++": "Beginner"  }      
 							
-  tools = { "git", "github", "Android Studio" }
+  	tools = { "git", "github", "Android Studio", "Linux" }
 	
-  isEnthusiast = True
+  	isEnthusiast = True
 	
-  return infinity
+	isOpenToCollaborate = True
+	
+ 	return infinity
 ~~~
 
 <h1 align="center">Hi 👋, I'm Brahma Keerthi</h1>
