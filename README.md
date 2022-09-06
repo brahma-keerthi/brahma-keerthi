@@ -16,7 +16,7 @@ def Brahma_Keerthi():
 ~~~
 
 <h1 align="center">Hi 👋, am Brahma Keerthi</h1>
-<h3 align="center">I'm a STUDENT @JSSSTU, Mysuru, India</h3>
+<h3 align="center">I'm a Computer Science Student @JSSSTU, Mysuru, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brahma-keerthi&label=Profile%20views&color=0e75b6&style=flat" alt="brahma-keerthi" /> </p>
 
