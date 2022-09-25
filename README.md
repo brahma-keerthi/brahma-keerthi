@@ -4,8 +4,7 @@ def Brahma_Keerthi():
        	            "Java" : "Intermediate",
 	            "Android Dev" : "Beginner",
                     "C" : "Intermediate",
-		    "C++" : "Intermediate"
-		    "DSA" : "Intermediate"  }      
+		    "C++" : "Intermediate"  }      
 							
   	tools = { "git", "github", "Android Studio", "Linux" }
 	
