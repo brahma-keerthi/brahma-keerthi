@@ -12,6 +12,8 @@ def Brahma_Keerthi():
 	
 	isOpenToCollaborate = True
 	
+	isPassionateToLearn = True
+	
  	return infinity
 ~~~
 
