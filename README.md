@@ -26,7 +26,7 @@ def Brahma_Keerthi():
 
 - 🌱 I’m currently learning **DSA** and **Android Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/brahma-keerthi?tab=repositories](https://github.com/brahma-keerthi?tab=repositories)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/brahma-keerthi?tab=repositories](https://github.com/brahma-keerthi?tab=repositories"> GitHub </a>
 
 - 📫 How to reach me **brahmakeerthihs008@gmail.com**
 
