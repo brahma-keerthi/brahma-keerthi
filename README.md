@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, am Brahma Keerthi</h1>
+<h3 align="center">I'm a Computer Science Student @JSSSTU, Mysuru, India</h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=35&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Android+Developer;DSA+Enthusiast;Python+Intermediate"></a>
+</p>
+
 ~~~
 def Brahma_Keerthi():
   	skills = {  "Python" : "Intermediate", 
@@ -16,9 +23,6 @@ def Brahma_Keerthi():
 	
  	return infinity
 ~~~
-
-<h1 align="center">Hi 👋, am Brahma Keerthi</h1>
-<h3 align="center">I'm a Computer Science Student @JSSSTU, Mysuru, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brahma-keerthi&label=Profile%20views&color=0e75b6&style=flat" alt="brahma-keerthi" /> </p>
 
@@ -43,3 +47,4 @@ def Brahma_Keerthi():
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brahma-keerthi&show_icons=true&locale=en" alt="brahma-keerthi" /></p>
         
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brahma-keerthi&" alt="brahma-keerthi" /></p>
+
