@@ -48,3 +48,6 @@ def Brahma_Keerthi():
         
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brahma-keerthi&" alt="brahma-keerthi" /></p>
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brahma-keerthi&layout=compact&hide=css,html&langs_count=10&theme=midnight-purple&cache_seconds=86400&card_width=1000)](https://github.com/brahma-keerthi/github-readme-stats)
+ [![Aldrin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=brahma-keerthi&theme=high-contrast)](https://github.com/brahma-keerthi/github-readme-activity-graph)
+
