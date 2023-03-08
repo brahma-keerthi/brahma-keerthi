@@ -48,5 +48,5 @@ def Brahma_Keerthi():
         
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brahma-keerthi&" alt="brahma-keerthi" /></p>
 
- [![Brahma Keerthi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=brahma-keerthi&theme=high-contrast)](https://github.com/brahma-keerthi/github-readme-activity-graph)
+<!--  [![Brahma Keerthi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=brahma-keerthi&theme=high-contrast)](https://github.com/brahma-keerthi/github-readme-activity-graph) -->
 
