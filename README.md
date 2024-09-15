@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, am Brahma Keerthi</h1>
+<!-- <h1 align="center">Hi 👋, am Brahma Keerthi</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brahma-keerthi&label=Profile%20views&color=0e75b6&style=flat" alt="brahma-keerthi" /> </p>
 
@@ -18,4 +18,4 @@
         
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brahma-keerthi&" alt="brahma-keerthi" /></p>
 
-<!--  [![Brahma Keerthi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=brahma-keerthi&theme=high-contrast)](https://github.com/brahma-keerthi/github-readme-activity-graph) -->
+[![Brahma Keerthi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=brahma-keerthi&theme=high-contrast)](https://github.com/brahma-keerthi/github-readme-activity-graph) -->
